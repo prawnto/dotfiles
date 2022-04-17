@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lin.leejie@gmail.com
+	name = Jie Lin Lee
